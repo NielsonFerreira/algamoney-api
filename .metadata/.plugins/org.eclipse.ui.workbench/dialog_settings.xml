@@ -22,4 +22,6 @@
 			<item value="ggas"/>
 		</list>
 	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
 </section>
